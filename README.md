@@ -66,7 +66,7 @@ Open the phone webview (`/webview`) while the app is running. There's a **Wake W
 
 ## Stack
 
-- [MentraOS SDK](https://github.com/mentra-glass/mentraos-sdk)
+- [MentraOS SDK](https://docs.mentraglass.com/)
 - [Home Assistant Assist](https://www.home-assistant.io/voice_control/builtin_sentences/)
 - [Bun](https://bun.sh)
 - Express
